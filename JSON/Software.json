@@ -1,0 +1,30 @@
+[
+  {
+    "softwareID": "001",
+    "softwareName": "Unreal Engine",
+    "softwareYear": "2010",
+    "softwarePlatform": "Platform-8",
+    "softwareURL": "01"
+  },
+  {
+    "softwareID": "002",
+    "softwareName": "Aseprite",
+    "softwareYear": "2013",
+    "softwarePlatform": "Platform-8",
+    "softwareURL": "02"
+  },
+  {
+    "softwareID": "003",
+    "softwareName": "Wallpaper Engine",
+    "softwareYear": "2016",
+    "softwarePlatform": "Platform-8",
+    "softwareURL": "03"
+  },
+  {
+    "softwareID": "004",
+    "softwareName": "Procreate",
+    "softwareYear": "2018",
+    "softwarePlatform": "Platform-9",
+    "softwareURL": "04"
+  }
+]

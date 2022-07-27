@@ -1,0 +1,594 @@
+[
+  {
+    "gameID": "001",
+    "gameName": "Super Meat Boy",
+    "gameYear": "2006",
+    "gamePlatform": "Platform-3",
+    "gameGOTY": "",
+    "gameURL": "2006/01"
+  },
+  {
+    "gameID": "002",
+    "gameName": "Geometry Dash",
+    "gameYear": "2006",
+    "gamePlatform": "Platform-3",
+    "gameGOTY": "",
+    "gameURL": "2006/02"
+  },
+  {
+    "gameID": "003",
+    "gameName": "Undertale",
+    "gameYear": "2006",
+    "gamePlatform": "Platform-3",
+    "gameGOTY": "",
+    "gameURL": "2006/03"
+  },
+  {
+    "gameID": "004",
+    "gameName": "Fire Emblem - Radiant Dawn",
+    "gameYear": "2006",
+    "gamePlatform": "Platform-3",
+    "gameGOTY": "",
+    "gameURL": "2006/04"
+  },
+  {
+    "gameID": "005",
+    "gameName": "Five Nights at Freddy's",
+    "gameYear": "2007",
+    "gamePlatform": "Platform-3",
+    "gameGOTY": "",
+    "gameURL": "2007/01"
+  },
+  {
+    "gameID": "006",
+    "gameName": "Limbo",
+    "gameYear": "2007",
+    "gamePlatform": "Platform-3",
+    "gameGOTY": "",
+    "gameURL": "2007/02"
+  },
+  {
+    "gameID": "007",
+    "gameName": "Persona",
+    "gameYear": "2007",
+    "gamePlatform": "Platform-3",
+    "gameGOTY": "",
+    "gameURL": "2007/03"
+  },
+  {
+    "gameID": "008",
+    "gameName": "Five Nights at Freddy's 2",
+    "gameYear": "2007",
+    "gamePlatform": "Platform-3",
+    "gameGOTY": "",
+    "gameURL": "2007/04"
+  },
+  {
+    "gameID": "009",
+    "gameName": "Fire Emblem - Path of Radiance",
+    "gameYear": "2007",
+    "gamePlatform": "Platform-3",
+    "gameGOTY": "",
+    "gameURL": "2007/05"
+  },
+  {
+    "gameID": "010",
+    "gameName": "Persona 2 - Innocent Sin",
+    "gameYear": "2008",
+    "gamePlatform": "Platform-3",
+    "gameGOTY": "",
+    "gameURL": "2008/01"
+  },
+  {
+    "gameID": "011",
+    "gameName": "Persona 2 - Eternal Punishment",
+    "gameYear": "2008",
+    "gamePlatform": "Platform-3",
+    "gameGOTY": "",
+    "gameURL": "2008/02"
+  },
+  {
+    "gameID": "012",
+    "gameName": "Papers, Please",
+    "gameYear": "2008",
+    "gamePlatform": "Platform-3",
+    "gameGOTY": "",
+    "gameURL": "2008/03"
+  },
+  {
+    "gameID": "013",
+    "gameName": "Five Nights at Freddy's 3",
+    "gameYear": "2008",
+    "gamePlatform": "Platform-3",
+    "gameGOTY": "",
+    "gameURL": "2008/04"
+  },
+  {
+    "gameID": "014",
+    "gameName": "Minecraft",
+    "gameYear": "2009",
+    "gamePlatform": "Platform-1",
+    "gameGOTY": "GOTY",
+    "gameURL": "2009/01"
+  },
+  {
+    "gameID": "015",
+    "gameName": "The Binding of Isaac",
+    "gameYear": "2009",
+    "gamePlatform": "Platform-3",
+    "gameGOTY": "",
+    "gameURL": "2009/02"
+  },
+  {
+    "gameID": "016",
+    "gameName": "Five Nights at Freddy's 4",
+    "gameYear": "2009",
+    "gamePlatform": "Platform-3",
+    "gameGOTY": "",
+    "gameURL": "2009/03"
+  },
+  {
+    "gameID": "017",
+    "gameName": "Five Nights at Freddy's - Sister Location",
+    "gameYear": "2009",
+    "gamePlatform": "Platform-3",
+    "gameGOTY": "",
+    "gameURL": "2009/04"
+  },
+  {
+    "gameID": "018",
+    "gameName": "Fire Emblem Echoes",
+    "gameYear": "2009",
+    "gamePlatform": "Platform-3",
+    "gameGOTY": "",
+    "gameURL": "2009/05"
+  },
+  {
+    "gameID": "019",
+    "gameName": "Shovel Knight",
+    "gameYear": "2010",
+    "gamePlatform": "Platform-3",
+    "gameGOTY": "",
+    "gameURL": "2010/01"
+  },
+  {
+    "gameID": "020",
+    "gameName": "Broforce",
+    "gameYear": "2010",
+    "gamePlatform": "Platform-3",
+    "gameGOTY": "",
+    "gameURL": "2010/02"
+  },
+  {
+    "gameID": "021",
+    "gameName": "Don't Starve",
+    "gameYear": "2010",
+    "gamePlatform": "Platform-3",
+    "gameGOTY": "",
+    "gameURL": "2010/03"
+  },
+  {
+    "gameID": "022",
+    "gameName": "Fire Emblem Awakening",
+    "gameYear": "2010",
+    "gamePlatform": "Platform-3",
+    "gameGOTY": "",
+    "gameURL": "2010/04"
+  },
+  {
+    "gameID": "023",
+    "gameName": "Factorio",
+    "gameYear": "2011",
+    "gamePlatform": "Platform-3",
+    "gameGOTY": "",
+    "gameURL": "2011/01"
+  },
+  {
+    "gameID": "024",
+    "gameName": "Terraria",
+    "gameYear": "2011",
+    "gamePlatform": "Platform-3",
+    "gameGOTY": "",
+    "gameURL": "2011/02"
+  },
+  {
+    "gameID": "025",
+    "gameName": "Resident Evil",
+    "gameYear": "2011",
+    "gamePlatform": "Platform-2",
+    "gameGOTY": "",
+    "gameURL": "2011/03"
+  },
+  {
+    "gameID": "026",
+    "gameName": "Five Nights at Freddy's - Help Wanted",
+    "gameYear": "2011",
+    "gamePlatform": "Platform-1",
+    "gameGOTY": "",
+    "gameURL": "2011/04"
+  },
+  {
+    "gameID": "027",
+    "gameName": "Persona 3",
+    "gameYear": "2012",
+    "gamePlatform": "Platform-3",
+    "gameGOTY": "",
+    "gameURL": "2012/01"
+  },
+  {
+    "gameID": "028",
+    "gameName": "Resident Evil 2",
+    "gameYear": "2012",
+    "gamePlatform": "Platform-2",
+    "gameGOTY": "",
+    "gameURL": "2012/02"
+  },
+  {
+    "gameID": "029",
+    "gameName": "The Last of Us",
+    "gameYear": "2012",
+    "gamePlatform": "Platform-6",
+    "gameGOTY": "GOTY",
+    "gameURL": "2012/03"
+  },
+  {
+    "gameID": "030",
+    "gameName": "Among Us",
+    "gameYear": "2012",
+    "gamePlatform": "Platform-1",
+    "gameGOTY": "",
+    "gameURL": "2012/04"
+  },
+  {
+    "gameID": "031",
+    "gameName": "Clash of Clans",
+    "gameYear": "2012",
+    "gamePlatform": "Platform-9",
+    "gameGOTY": "",
+    "gameURL": "2012/05"
+  },
+  {
+    "gameID": "032",
+    "gameName": "Jump King",
+    "gameYear": "2013",
+    "gamePlatform": "Platform-3",
+    "gameGOTY": "",
+    "gameURL": "2013/01"
+  },
+  {
+    "gameID": "033",
+    "gameName": "Stardew Valley",
+    "gameYear": "2013",
+    "gamePlatform": "Platform-3",
+    "gameGOTY": "",
+    "gameURL": "2013/02"
+  },
+  {
+    "gameID": "034",
+    "gameName": "Unpacking",
+    "gameYear": "2013",
+    "gamePlatform": "Platform-3",
+    "gameGOTY": "",
+    "gameURL": "2013/03"
+  },
+  {
+    "gameID": "035",
+    "gameName": "Fire Emblem Fates",
+    "gameYear": "2013",
+    "gamePlatform": "Platform-3",
+    "gameGOTY": "",
+    "gameURL": "2013/04"
+  },
+  {
+    "gameID": "036",
+    "gameName": "Bloons TD 6",
+    "gameYear": "2013",
+    "gamePlatform": "Platform-3",
+    "gameGOTY": "",
+    "gameURL": "2013/05"
+  },
+  {
+    "gameID": "037",
+    "gameName": "Resident Evil 3",
+    "gameYear": "2014",
+    "gamePlatform": "Platform-2",
+    "gameGOTY": "",
+    "gameURL": "2014/01"
+  },
+  {
+    "gameID": "038",
+    "gameName": "Rocket League",
+    "gameYear": "2014",
+    "gamePlatform": "Platform-3",
+    "gameGOTY": "",
+    "gameURL": "2014/02"
+  },
+  {
+    "gameID": "039",
+    "gameName": "Superliminal",
+    "gameYear": "2014",
+    "gamePlatform": "Platform-4",
+    "gameGOTY": "",
+    "gameURL": "2014/03"
+  },
+  {
+    "gameID": "040",
+    "gameName": "Plague Inc.",
+    "gameYear": "2014",
+    "gamePlatform": "Platform-3",
+    "gameGOTY": "",
+    "gameURL": "2014/04"
+  },
+  {
+    "gameID": "041",
+    "gameName": "Persona 4 - Golden",
+    "gameYear": "2015",
+    "gamePlatform": "Platform-4",
+    "gameGOTY": "",
+    "gameURL": "2015/01"
+  },
+  {
+    "gameID": "042",
+    "gameName": "Ori and the Blind Forest",
+    "gameYear": "2015",
+    "gamePlatform": "Platform-4",
+    "gameGOTY": "",
+    "gameURL": "2015/02"
+  },
+  {
+    "gameID": "043",
+    "gameName": "Cities Skylines",
+    "gameYear": "2015",
+    "gamePlatform": "Platform-6",
+    "gameGOTY": "",
+    "gameURL": "2015/03"
+  },
+  {
+    "gameID": "044",
+    "gameName": "Clash Royale",
+    "gameYear": "2015",
+    "gamePlatform": "Platform-9",
+    "gameGOTY": "",
+    "gameURL": "2015/04"
+  },
+  {
+    "gameID": "045",
+    "gameName": "Resident Evil 4",
+    "gameYear": "2016",
+    "gamePlatform": "Platform-2",
+    "gameGOTY": "",
+    "gameURL": "2016/01"
+  },
+  {
+    "gameID": "046",
+    "gameName": "Cuphead",
+    "gameYear": "2016",
+    "gamePlatform": "Platform-3",
+    "gameGOTY": "",
+    "gameURL": "2016/02"
+  },
+  {
+    "gameID": "047",
+    "gameName": "Little Nightmares",
+    "gameYear": "2016",
+    "gamePlatform": "Platform-3",
+    "gameGOTY": "",
+    "gameURL": "2016/03"
+  },
+  {
+    "gameID": "048",
+    "gameName": "Five Nights at Freddy's - Security Breach",
+    "gameYear": "2016",
+    "gamePlatform": "Platform-1",
+    "gameGOTY": "",
+    "gameURL": "2016/04"
+  },
+  {
+    "gameID": "049",
+    "gameName": "Fire Emblem Heroes",
+    "gameYear": "2016",
+    "gamePlatform": "Platform-3",
+    "gameGOTY": "",
+    "gameURL": "2016/05"
+  },
+  {
+    "gameID": "050",
+    "gameName": "Tetris Effect",
+    "gameYear": "2017",
+    "gamePlatform": "Platform-3",
+    "gameGOTY": "",
+    "gameURL": "2017/01"
+  },
+  {
+    "gameID": "051",
+    "gameName": "Dead Cells",
+    "gameYear": "2017",
+    "gamePlatform": "Platform-3",
+    "gameGOTY": "",
+    "gameURL": "2017/02"
+  },
+  {
+    "gameID": "052",
+    "gameName": "Subnautica",
+    "gameYear": "2017",
+    "gamePlatform": "Platform-6",
+    "gameGOTY": "",
+    "gameURL": "2017/03"
+  },
+  {
+    "gameID": "053",
+    "gameName": "Stellaris",
+    "gameYear": "2017",
+    "gamePlatform": "Platform-6",
+    "gameGOTY": "",
+    "gameURL": "2017/04"
+  },
+  {
+    "gameID": "054",
+    "gameName": "Persona 5 - Royal",
+    "gameYear": "2018",
+    "gamePlatform": "Platform-4",
+    "gameGOTY": "GOTY",
+    "gameURL": "2018/01"
+  },
+  {
+    "gameID": "055",
+    "gameName": "Resident Evil 5",
+    "gameYear": "2018",
+    "gamePlatform": "Platform-2",
+    "gameGOTY": "",
+    "gameURL": "2018/02"
+  },
+  {
+    "gameID": "056",
+    "gameName": "Corpse Party",
+    "gameYear": "2018",
+    "gamePlatform": "Platform-3",
+    "gameGOTY": "",
+    "gameURL": "2018/03"
+  },
+  {
+    "gameID": "057",
+    "gameName": "Fortnite",
+    "gameYear": "2018",
+    "gamePlatform": "Platform-3",
+    "gameGOTY": "",
+    "gameURL": "2018/04"
+  },
+  {
+    "gameID": "058",
+    "gameName": "Ori and the Will of the Wisps",
+    "gameYear": "2019",
+    "gamePlatform": "Platform-4",
+    "gameGOTY": "",
+    "gameURL": "2019/01"
+  },
+  {
+    "gameID": "059",
+    "gameName": "Celeste",
+    "gameYear": "2019",
+    "gamePlatform": "Platform-4",
+    "gameGOTY": "GOTY",
+    "gameURL": "2019/02"
+  },
+  {
+    "gameID": "060",
+    "gameName": "Fire Emblem - Three Houses",
+    "gameYear": "2019",
+    "gamePlatform": "Platform-4",
+    "gameGOTY": "",
+    "gameURL": "2019/03"
+  },
+  {
+    "gameID": "061",
+    "gameName": "Resident Evil 6",
+    "gameYear": "2020",
+    "gamePlatform": "Platform-2",
+    "gameGOTY": "",
+    "gameURL": "2020/01"
+  },
+  {
+    "gameID": "062",
+    "gameName": "Hades",
+    "gameYear": "2020",
+    "gamePlatform": "Platform-4",
+    "gameGOTY": "GOTY",
+    "gameURL": "2020/02"
+  },
+  {
+    "gameID": "063",
+    "gameName": "Fall Guys",
+    "gameYear": "2020",
+    "gamePlatform": "Platform-3",
+    "gameGOTY": "",
+    "gameURL": "2020/03"
+  },
+  {
+    "gameID": "064",
+    "gameName": "Hollow Knight",
+    "gameYear": "2021",
+    "gamePlatform": "Platform-3",
+    "gameGOTY": "GOTY",
+    "gameURL": "2021/01"
+  },
+  {
+    "gameID": "065",
+    "gameName": "Phasmophobia",
+    "gameYear": "2021",
+    "gamePlatform": "Platform-7",
+    "gameGOTY": "",
+    "gameURL": "2021/02"
+  },
+  {
+    "gameID": "066",
+    "gameName": "Animal Crossing - New Horizons",
+    "gameYear": "2021",
+    "gamePlatform": "Platform-3",
+    "gameGOTY": "",
+    "gameURL": "2021/03"
+  },
+  {
+    "gameID": "067",
+    "gameName": "The Last of Us II",
+    "gameYear": "2022",
+    "gamePlatform": "Platform-6",
+    "gameGOTY": "GOTY",
+    "gameURL": "2022/01"
+  },
+  {
+    "gameID": "068",
+    "gameName": "Resident Evil 7",
+    "gameYear": "2022",
+    "gamePlatform": "Platform-2",
+    "gameGOTY": "",
+    "gameURL": "2022/02"
+  },
+  {
+    "gameID": "069",
+    "gameName": "It Takes Two",
+    "gameYear": "2023",
+    "gamePlatform": "Platform-4",
+    "gameGOTY": "GOTY",
+    "gameURL": "2023/01"
+  },
+  {
+    "gameID": "070",
+    "gameName": "Resident Evil 8",
+    "gameYear": "2023",
+    "gamePlatform": "Platform-2",
+    "gameGOTY": "",
+    "gameURL": "2023/02"
+  },
+  {
+    "gameID": "071",
+    "gameName": "Little Nightmares II",
+    "gameYear": "2023",
+    "gamePlatform": "Platform-4",
+    "gameGOTY": "",
+    "gameURL": "2023/03"
+  },
+  {
+    "gameID": "072",
+    "gameName": "Elden Ring",
+    "gameYear": "2024",
+    "gamePlatform": "Platform-5",
+    "gameGOTY": "GOTY",
+    "gameURL": "20/01"
+  },
+  {
+    "gameID": "073",
+    "gameName": "Fire Emblem Warriors",
+    "gameYear": "2024",
+    "gamePlatform": "Platform-4",
+    "gameGOTY": "",
+    "gameURL": "2024/02"
+  },
+  {
+    "gameID": "074",
+    "gameName": "Hogwarts Legacy",
+    "gameYear": "TBD",
+    "gamePlatform": "Platform-4",
+    "gameGOTY": "",
+    "gameURL": "TBD/01"
+  }
+]
